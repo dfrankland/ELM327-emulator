@@ -136,3 +136,6 @@ Untitled*.ipynb
 comm_log.txt
 scantool.py
 mmap-input.bin
+
+# nix
+result
